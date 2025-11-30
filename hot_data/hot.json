@@ -8,20 +8,20 @@
         "order": 6
     },
     {
-        "family_name": "Bebas Puas - Bebas Puas - 6GB",
-        "family_code": "eb2f99e5-4fa3-4f34-951f-6769ec9e38a1",
-        "is_enterprise": false,
-        "variant_name": "Bebas Puas",
-        "option_name": "6GB",
-        "order": 21
-    },
-    {
         "family_name": "Newcomer Promo",
         "family_code": "6bc5a34d-7901-4bf9-8629-5bd7de28c89f",
         "is_enterprise": false,
         "variant_name": "Xtra Combo",
         "option_name": "1GB + 1GB",
         "order": 1
+    },
+    {
+        "family_name": "Bebas Puas - Bebas Puas - 6GB",
+        "family_code": "eb2f99e5-4fa3-4f34-951f-6769ec9e38a1",
+        "is_enterprise": false,
+        "variant_name": "Bebas Puas",
+        "option_name": "6GB",
+        "order": 21
     },
     {
         "family_name": "Akrab - Akrab - 15GB for 2 Members",
