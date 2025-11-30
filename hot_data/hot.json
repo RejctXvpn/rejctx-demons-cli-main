@@ -11,7 +11,7 @@
         "family_name": "Newcomer Promo",
         "family_code": "6bc5a34d-7901-4bf9-8629-5bd7de28c89f",
         "is_enterprise": false,
-        "variant_name": "Flex XL",
+        "variant_name": "Xtra Combo",
         "option_name": "1GB + 1GB",
         "order": 1
     },
@@ -19,7 +19,7 @@
         "family_name": "Xtra Combo Flex - ‎ ‎ - Xtra Combo Flex XL",
         "family_code": "4a1acab0-da54-462c-84b1-25fd0efa9318",
         "is_enterprise": false,
-        "variant_name": "Xtra Combo",
+        "variant_name": "Flex XL",
         "option_name": "32GB",
         "order": 5
     },
