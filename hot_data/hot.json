@@ -16,12 +16,12 @@
         "order": 1
     },
     {
-        "family_name": "Xtra Combo Plus - Reguler - 5GB",
+        "family_name": "Xtra Combo Plus",
         "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
         "variant_name": "Reguler",
         "option_name": "5GB",
-        "order": 24
+        "order": 32
     },
     {
         "family_name": "XTRA Combo",
