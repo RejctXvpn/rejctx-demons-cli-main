@@ -16,14 +16,6 @@
         "order": 1
     },
     {
-        "family_name": "Xtra Combo Flex",
-        "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
-        "is_enterprise": false,
-        "variant_name": "FLEX L",
-        "option_name": "20GB",
-        "order": 121
-    },
-    {
         "family_name": "Xtra Combo Plus",
         "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
@@ -38,6 +30,14 @@
         "variant_name": "Special For You",
         "option_name": "10GB+10GB",
         "order": 18
+    },
+    {
+        "family_name": "Xtra Combo Plus",
+        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+        "is_enterprise": false,
+        "variant_name": "Regular",
+        "option_name": "5GB",
+        "order": 79
     },
     {
         "family_name": "XTRA Combo",
