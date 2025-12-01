@@ -16,6 +16,14 @@
         "order": 1
     },
     {
+        "family_name": "Xtra Combo Flex",
+        "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
+        "is_enterprise": false,
+        "variant_name": "FLEX L+",
+        "option_name": "20GB",
+        "order": 121
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
