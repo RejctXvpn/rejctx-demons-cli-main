@@ -16,12 +16,12 @@
         "order": 1
     },
     {
-        "family_name": "Xtra Combo Flex",
-        "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
+        "family_name": "Special For You",
+        "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
         "is_enterprise": false,
-        "variant_name": "FLEX L+",
-        "option_name": "23GB",
-        "order": 129
+        "variant_name": "XTRA Combo 10GB+10GB",
+        "option_name": "10GB",
+        "order": 44
     },
     {
         "family_name": "Bebas Puas - Bebas Puas - 10GB",
