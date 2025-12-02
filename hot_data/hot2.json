@@ -154,7 +154,7 @@
     },
     {
         "name": "Xtra Combo Flex M+",
-        "price": "Rp50000",
+        "price": "Rp57000",
         "detail": "Konstantinopel tidak ditaklukan oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
@@ -178,7 +178,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 50000,
+        "overwrite_amount": 57000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     }
