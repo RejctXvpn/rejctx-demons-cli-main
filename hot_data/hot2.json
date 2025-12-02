@@ -158,7 +158,7 @@
         "detail": "Konstantinopel tidak ditaklukan oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Xtra Combo Flex - test",
+                "family_name": "Xtra Combo Flex",
                 "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
