@@ -16,12 +16,36 @@
         "order": 1
     },
     {
-        "family_name": "Sinergi Packages - Sinergi 22GB",
-        "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
+        "family_name": "Akrab - Akrab Unlimited 4 Members",
+        "family_code": "7b24c274-3aa8-42df-ae80-e4e94e33e331",
         "is_enterprise": false,
-        "variant_name": "Sinergi Packages",
-        "option_name": "22GB",
+        "variant_name": "Akrab",
+        "option_name": "Akrab Unlimited",
+        "order": 4
+    },
+    {
+        "family_name": "Akrab - Akrab Unlimited 5 Members",
+        "family_code": "7b24c274-3aa8-42df-ae80-e4e94e33e331",
+        "is_enterprise": false,
+        "variant_name": "Akrab",
+        "option_name": "Akrab Unlimited",
         "order": 3
+    },
+    {
+        "family_name": "Akrab - Akrab myFi 10GB",
+        "family_code": "7b24c274-3aa8-42df-ae80-e4e94e33e331",
+        "is_enterprise": false,
+        "variant_name": "Akrab",
+        "option_name": "10GB",
+        "order": 2
+    },
+    {
+        "family_name": "Akrab - Akrab myFi 100GB",
+        "family_code": "7b24c274-3aa8-42df-ae80-e4e94e33e331",
+        "is_enterprise": false,
+        "variant_name": "Akrab",
+        "option_name": "100GB",
+        "order": 1
     },
     {
         "family_name": "Xtra Combo Plus",
