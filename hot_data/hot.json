@@ -16,6 +16,14 @@
         "order": 1
     },
     {
+        "family_name": "Sinergi Packages",
+        "family_code": "5f122b1b-3da1-4d62-8e29-e7f987b06af4",
+        "is_enterprise": false,
+        "variant_name": "Sinergi",
+        "option_name": "22GB",
+        "order": 3
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
