@@ -40,12 +40,12 @@
         "order": 44
     },
     {
-        "family_name": "Bebas Puas - 10GB",
+        "family_name": "Bebas Puas - 45.00GB",
         "family_code": "eb2f99e5-4fa3-4f34-951f-6769ec9e38a1",
         "is_enterprise": false,
         "variant_name": "Bebas Puas",
-        "option_name": "10GB",
-        "order": 15
+        "option_name": "45GB",
+        "order": 22
     },
     {
         "family_name": "Akrab - 15GB for 2 Members",
