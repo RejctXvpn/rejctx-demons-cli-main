@@ -49,6 +49,7 @@ def show_main_menu(profile):
     profile_table.add_row("Type:", str(profile['subscription_type']))
     profile_table.add_row("Pulsa:", f"Rp {profile['balance']}")
     profile_table.add_row("Aktif s/d:", str(expired_at_dt))
+    profile_table.add_row("Version:", str(7.10))
     profile_table.add_row("Info:", str(profile['point_info']))
 
     print_cyber_panel(profile_table, title="USER PROFILE")
