@@ -144,6 +144,14 @@
         "order": 8
     },
     {
+        "family_name": "1.1 Youtube Special",
+        "family_code": "55246d33-3754-4448-9136-ca9534d8a51e",
+        "is_enterprise": false,
+        "variant_name": "1.1 Youtube Special",
+        "option_name": "YouTube 1.5GB",
+        "order": 1
+    },
+    {
         "family_name": "Xtra Combo Plus",
         "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
