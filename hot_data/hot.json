@@ -88,11 +88,11 @@
         "order": 5
     },
     {
-        "family_name": "Xtra Combo Plus",
-        "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
-        "is_enterprise": false,
-        "variant_name": "Reguler",
-        "option_name": "10GB",
-        "order": 19
+        "family_name": "HYFE",
+        "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
+        "is_enterprise": true,
+        "variant_name": "HYFE",
+        "option_name": "FUP 50GB",
+        "order": 1
     }
 ]
