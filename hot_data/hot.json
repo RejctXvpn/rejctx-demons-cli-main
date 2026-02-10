@@ -90,7 +90,7 @@
     {
         "family_name": "HYFE",
         "family_code": "57d38719-1f39-4eda-8137-270df918cbe5",
-        "is_enterprise": true,
+        "is_enterprise": false,
         "variant_name": "HYFE",
         "option_name": "FUP 50GB",
         "order": 1
