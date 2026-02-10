@@ -1,0 +1,98 @@
+[
+    {
+        "family_name": "Unlimited Turbo",
+        "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
+        "is_enterprise": false,
+        "variant_name": "For Xtra Combo",
+        "option_name": "TikTok",
+        "order": 6
+    },
+    {
+        "family_name": "Xtra Combo Plus",
+        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+        "is_enterprise": false,
+        "variant_name": "Reguler",
+        "option_name": "5GB",
+        "order": 21
+    },
+    {
+        "family_name": "XTRA Combo",
+        "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+        "is_enterprise": false,
+        "variant_name": "Special For You",
+        "option_name": "10GB+10GB",
+        "order": 18
+    },
+    {
+        "family_name": "Xtra Combo Plus",
+        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+        "is_enterprise": false,
+        "variant_name": "Reguler",
+        "option_name": "5gb",
+        "order": 17
+    },
+    {
+        "family_name": "XTRA Combo",
+        "family_code": "6fda76ee-e789-4897-89fb-9114da47b805",
+        "is_enterprise": false,
+        "variant_name": "Special For You",
+        "option_name": "10GB+10GB",
+        "order": 44
+    },
+    {
+        "family_name": "Bebas Puas - 10GB",
+        "family_code": "eb2f99e5-4fa3-4f34-951f-6769ec9e38a1",
+        "is_enterprise": false,
+        "variant_name": "Bebas Puas",
+        "option_name": "10GB",
+        "order": 15
+    },
+    {
+        "family_name": "Akrab - 15GB for 2 Members",
+        "family_code": "6e469cb2-443d-402f-ba77-681b032ead6a",
+        "is_enterprise": false,
+        "variant_name": "Akrab",
+        "option_name": "16GB",
+        "order": 12
+    },
+    {
+        "family_name": "Bebas Puas - 6GB",
+        "family_code": "eb2f99e5-4fa3-4f34-951f-6769ec9e38a1",
+        "is_enterprise": false,
+        "variant_name": "Bebas Puas",
+        "option_name": "6GB",
+        "order": 21
+    },
+    {
+        "family_name": "Akrab - 15GB for 2 Members",
+        "family_code": "6e469cb2-443d-402f-ba77-681b032ead6a",
+        "is_enterprise": false,
+        "variant_name": "Akrab",
+        "option_name": "15GB",
+        "order": 6
+    },
+    {
+        "family_name": "Bebas Puas - 56GB",
+        "family_code": "eb2f99e5-4fa3-4f34-951f-6769ec9e38a1",
+        "is_enterprise": false,
+        "variant_name": "Bebas Puas",
+        "option_name": "56GB",
+        "order": 27
+    },
+    {
+        "family_name": "Xtra Combo Plus",
+        "family_code": "e0f9605b-5dad-486e-a378-cf40d5b7f2ba",
+        "is_enterprise": false,
+        "variant_name": "Regular",
+        "option_name": "33GB",
+        "order": 5
+    },
+    {
+        "family_name": "Xtra Combo Plus",
+        "family_code": "f6197a91-343c-4154-8d6a-b35f2110ce58",
+        "is_enterprise": false,
+        "variant_name": "Reguler",
+        "option_name": "10GB",
+        "order": 19
+    }
+]
