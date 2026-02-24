@@ -15,19 +15,19 @@
                 "order": 20
             },
             {
-                "family_name": "XL PASS LITE",
-                "family_code": "7fed7aa1-946f-44ce-9eb4-488a7e15c68a",
-                "is_enterprise": false,
+                "family_name": "PRIO PASS",
+                "family_code": "c298651a-2502-42ac-a052-9b97210a831c",
+                "is_enterprise": true,
                 "migration_type": "NONE",
-                "variant_code": "c7fef91f-c5fa-4a0d-8762-0f514837d276",
-                "option_name": "XL PASS LITE",
-                "order": 2,
+                "variant_code": "6f0c84dd-9630-4216-aa7f-1951afd1d06f",
+                "option_name": "PRIO PASS 30 Days",
+                "order": 1,
                 "price": 0
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 92000,
+        "overwrite_amount": 900000,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
